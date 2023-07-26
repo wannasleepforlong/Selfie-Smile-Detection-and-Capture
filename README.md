@@ -1,5 +1,5 @@
 # Selfie-Smile-Detection-and-Capture
-Capture a photo if smile detected in the selfie camera
+Automatically captures a photo if smile detected in the selfie camera
 
 This projects utilizes cv2 to detect and capture images when user smiles.
 
