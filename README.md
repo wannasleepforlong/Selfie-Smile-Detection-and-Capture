@@ -12,5 +12,5 @@ Thanks XD
 
 
 Output Example
-![CHEESE!](Unititled.png)
+![CHEESE!](Untitled.png)
 
