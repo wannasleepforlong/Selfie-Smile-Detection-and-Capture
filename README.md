@@ -11,6 +11,6 @@ The photos are stored in a directory named  Captures.
 Thanks XD
 
 
-Output Example
+-Output Example
 ![CHEESE!](Untitled.png)
 
