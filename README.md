@@ -9,3 +9,8 @@ I have also added a feature so it only captures a photo after 5 seconds have ela
 The photos are stored in a directory named  Captures.
 
 Thanks XD
+
+
+Output Example
+![CHEESE!](Unititled.png)
+
